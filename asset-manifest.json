@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/chhorng-personal-site/static/js/main.f10d7f30.js",
+    "static/media/my_pic.jpeg": "/chhorng-personal-site/static/media/my_pic.5aa1b46bc5c3938ac0b6.jpeg",
+    "static/media/InstagramIcon.svg": "/chhorng-personal-site/static/media/InstagramIcon.b65fd1ea807b0dd362e3fc5606fde418.svg",
+    "static/media/GitHubIcon.svg": "/chhorng-personal-site/static/media/GitHubIcon.a6e245a37f0e87cef1e51c9c7e94ea47.svg",
+    "static/media/TwitterIcon.svg": "/chhorng-personal-site/static/media/TwitterIcon.5cb28d333b8d6744d0d9178c7ad1972d.svg",
+    "static/media/LinkedinIcon.svg": "/chhorng-personal-site/static/media/LinkedinIcon.f6c23309e78849945a3d9dce42769c2f.svg",
+    "static/media/FacebookIcon.svg": "/chhorng-personal-site/static/media/FacebookIcon.1c2e1e60a9fefe1f4cc327632f5ffc3b.svg",
+    "static/media/Mail.svg": "/chhorng-personal-site/static/media/Mail.341d1e767b26e2540702fb63676d4501.svg",
+    "index.html": "/chhorng-personal-site/index.html",
+    "main.f10d7f30.js.map": "/chhorng-personal-site/static/js/main.f10d7f30.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f10d7f30.js"
+  ]
+}
